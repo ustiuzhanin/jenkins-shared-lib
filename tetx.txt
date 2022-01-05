@@ -1,0 +1,4 @@
+NAMESPACE   POD_NAME
+default     data-9bd8864f5-z4nnd
+default     data-9bd8864f5-z4nnd
+default     data-pvc
